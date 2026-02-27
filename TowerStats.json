@@ -1965,9 +1965,9 @@
         "PlacePrice": 15000,
         "Max": 2,
         "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
+            "X": -2,
+            "Y": -2,
+            "Z": -2
         },
         "Upgrades": [
             {
