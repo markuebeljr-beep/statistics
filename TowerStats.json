@@ -2299,6 +2299,44 @@
             }
         ]
     },
+        "Eclipse Bringer Freddy": {
+        "Type": "Continuous Splash",
+        "Image": "rbxassetid://140398874993993",
+        "Rarity": "Nightmare",
+        "PlacePrice": 15000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 50,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 17500,
+                "Range": 22,
+                "Damage": 65,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 22500,
+                "Range": 24,
+                "Damage": 90,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 27500,
+                "Range": 25,
+                "Damage": 125,
+                "Cooldown": 0.1
+            }
+        ]
+    },
      "Rad Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18258392627",
