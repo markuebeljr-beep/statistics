@@ -2302,7 +2302,7 @@
         "Eclipse Bringer Freddy": {
         "Type": "Continuous Splash",
         "Image": "rbxassetid://140398874993993",
-        "Rarity": "Nightmare",
+        "Rarity": "CosmIc",
         "PlacePrice": 15000,
         "Max": 2,
         "hitboxOffset": {
@@ -2314,25 +2314,25 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 50,
+                "Damage": 150,
                 "Cooldown": 0.1
             },
             {
                 "Price": 17500,
                 "Range": 22,
-                "Damage": 65,
+                "Damage": 200,
                 "Cooldown": 0.1
             },
             {
                 "Price": 22500,
                 "Range": 24,
-                "Damage": 90,
+                "Damage": 225,
                 "Cooldown": 0.1
             },
             {
                 "Price": 27500,
                 "Range": 25,
-                "Damage": 125,
+                "Damage": 250,
                 "Cooldown": 0.1
             }
         ]
