@@ -1522,7 +1522,7 @@
         ]
     },
        "Cupcake Cone": {
-        "Type": "Splash",
+        "Type": "Explosion",
         "Image": "rbxassetid://111664355874207",
         "Rarity": "Nightmare",
         "PlacePrice": 10000,
@@ -2296,45 +2296,6 @@
                 "RechargeLength": 5,
                 "Slow": 0.7,
                 "SlowTime": 1
-            }
-        ]
-    },
-      "EclipseBringer Freddy": {
-        "Type": "Continuous",
-        "Image": "rbxassetid://140398874993993",
-        "Rarity": "Nightmare",
-        "PlacePrice": 22222,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Offset": -0.4,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 22,
-                "Damage": 222,
-                "Cooldown": 0.1
-            },
-            {
-                "Price": 27500,
-                "Range": 22,
-                "Damage": 350,
-                "Cooldown": 0.1
-            },
-            {
-                "Price": 32222,
-                "Range": 23,
-                "Damage": 450
-                "Cooldown": 0.1
-            },
-            {
-                "Price": 40000,
-                "Range": 25,
-                "Damage": 300,
-                "Cooldown": 0.1
             }
         ]
     },
