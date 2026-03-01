@@ -2337,6 +2337,244 @@
             }
         ]
     },
+     "Ninja Chica": {
+        "Type": "Single",
+        "Image": "rbxassetid://108194702362774",
+        "Rarity": "Uncommon",
+        "PlacePrice": 450,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 5,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 45,
+                "Cooldown": 1.75
+            },
+            {
+                "Price": 600,
+                "Range": 13,
+                "Damage": 70,
+                "Cooldown": 1.75
+            },
+            {
+                "Price": 1000,
+                "Range": 15,
+                "Damage": 95,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 1250,
+                "Range": 15,
+                "Damage": 125,
+                "Cooldown": 1.4
+            }
+        ]
+    },
+     "Sword Master Endo": {
+        "Type": "Single",
+        "Image": "rbxassetid://131058510192507",
+        "Rarity": "Rare",
+        "PlacePrice": 750,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 5,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 7,
+                "Damage": 125,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1200,
+                "Range": 9,
+                "Damage": 150,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1500,
+                "Range": 11,
+                "Damage": 175,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1750,
+                "Range": 13,
+                "Damage": 210,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "Rich Freddy": {
+        "Type": "Farm",
+        "Image": "rbxassetid://123224011238633",
+        "Rarity": "Epic",
+        "PlacePrice": 350,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "NoEnemyAttack": true,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 4,
+                "Farm": 250
+            },
+            {
+                "Price": 500,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 4,
+                "Farm": 500
+            },
+            {
+                "Price": 750,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 4,
+                "Farm": 750
+            },
+            {
+                "Price": 1000,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 4,
+                "Farm": 1000
+            }
+        ]
+    },
+      "Super Foxy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://109728770976137",
+        "Rarity": "Mythic",
+        "PlacePrice": 4500,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 5,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 300,
+                "Cooldown": 1
+            },
+            {
+                "Price": 5000,
+                "Range": 16,
+                "Damage": 500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 5250,
+                "Range": 18,
+                "Damage": 650,
+                "Cooldown": 0.7
+            },
+            {
+                "Price": 5750,
+                "Range": 19,
+                "Damage": 800,
+                "Cooldown": 0.6
+            }
+        ]
+    },
+      "Baker Boy": {
+        "Type": "Splash",
+        "Image": "rbxassetid://114841085560378",
+        "Rarity": "Secret",
+        "PlacePrice": 11500,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 5,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 2200,
+                "Cooldown": 2
+            },
+            {
+                "Price": 13500,
+                "Range": 18,
+                "Damage": 2650,
+                "Cooldown": 1.7
+            },
+            {
+                "Price": 15500,
+                "Range": 21,
+                "Damage": 3250,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 18345,
+                "Range": 23,
+                "Damage": 4000,
+                "Cooldown": 1.35
+            }
+        ]
+    },
+     "Death Bringer Freddy": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://75440883201677",
+        "Rarity": "Nightmare",
+        "PlacePrice": 15000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 5,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 2500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 22500,
+                "Range": 22,
+                "Damage": 4500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 33240,
+                "Range": 24,
+                "Damage": 5250,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 37560,
+                "Range": 25,
+                "Damage": 6000,
+                "Cooldown": 0.8
+            }
+        ]
+    },
      "Rad Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18258392627",
