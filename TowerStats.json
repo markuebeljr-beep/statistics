@@ -15,25 +15,25 @@
             {
                 "Price": 0,
                 "Range": 10,
-                "Damage": 20,
+                "Damage": 25,
                 "Cooldown": 1
             },
             {
                 "Price": 500,
                 "Range": 12,
-                "Damage": 25,
+                "Damage": 35,
                 "Cooldown": 1
             },
             {
                 "Price": 750,
                 "Range": 14,
-                "Damage": 30,
+                "Damage": 45,
                 "Cooldown": 1
             },
             {
                 "Price": 1250,
                 "Range": 15,
-                "Damage": 30,
+                "Damage": 55,
                 "Cooldown": 0.75
             }
         ]
@@ -906,25 +906,25 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 400,
+                "Damage": 800,
                 "Cooldown": 2
             },
             {
                 "Price": 12000,
                 "Range": 17,
-                "Damage": 700,
+                "Damage": 1150,
                 "Cooldown": 2
             },
             {
                 "Price": 15000,
                 "Range": 19,
-                "Damage": 1000,
+                "Damage": 2250,
                 "Cooldown": 2
             },
             {
                 "Price": 20000,
                 "Range": 21,
-                "Damage": 1200,
+                "Damage": 3000,
                 "Cooldown": 1.5
             }
         ]
@@ -1209,10 +1209,10 @@
         ]
     },
     "Leviathan Mangle": {
-        "Type": "Splash",
+        "Type": "Splash Slow",
         "Image": "rbxassetid://18256011276",
         "Rarity": "Nightmare",
-        "PlacePrice": 22500,
+        "PlacePrice": 17500,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -1223,26 +1223,34 @@
             {
                 "Price": 0,
                 "Range": 17,
-                "Damage": 1250,
-                "Cooldown": 3
+                "Damage": 1000,
+                "Cooldown": 3,
+                "Slow": 0.7,
+                "SlowTime": 1
             },
             {
                 "Price": 27500,
                 "Range": 20,
-                "Damage": 1750,
-                "Cooldown": 2.5
+                "Damage": 1350,
+                "Cooldown": 2.5,
+                "Slow": 0.7,
+                "SlowTime": 1
             },
             {
                 "Price": 32000,
                 "Range": 22,
-                "Damage": 2250,
-                "Cooldown": 1.5
+                "Damage": 1750,
+                "Cooldown": 1.5,
+                "Slow": 0.7,
+                "SlowTime": 1
             },
             {
                 "Price": 35000,
                 "Range": 25,
-                "Damage": 2750,
-                "Cooldown": 1
+                "Damage": 2250,
+                "Cooldown": 1,
+                "Slow": 0.7,
+                "SlowTime": 1
             }
         ]
     },
@@ -1382,25 +1390,25 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 650,
+                "Damage": 600,
                 "Cooldown": 2.5
             },
             {
                 "Price": 7500,
                 "Range": 17,
-                "Damage": 900,
+                "Damage": 750,
                 "Cooldown": 2
             },
             {
                 "Price": 8500,
                 "Range": 23,
-                "Damage": 1125,
+                "Damage": 1000,
                 "Cooldown": 1.5
             },
             {
                 "Price": 10000,
                 "Range": 23,
-                "Damage": 1550,
+                "Damage": 1250,
                 "Cooldown": 1.2
             }
         ]
@@ -1845,25 +1853,25 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 30,
+                "Damage": 45,
                 "Cooldown": 0.05
             },
             {
                 "Price": 30000,
                 "Range": 28,
-                "Damage": 40,
+                "Damage": 60,
                 "Cooldown": 0.05
             },
             {
                 "Price": 45000,
                 "Range": 32,
-                "Damage": 50,
+                "Damage": 85,
                 "Cooldown": 0.05
             },
             {
                 "Price": 60000,
                 "Range": 35,
-                "Damage": 60,
+                "Damage": 100,
                 "Cooldown": 0.05
             }
         ]
@@ -1872,7 +1880,7 @@
         "Type": "Single",
         "Image": "rbxassetid://18363537562",
         "Rarity": "Secret",
-        "PlacePrice": 800,
+        "PlacePrice": 550,
         "Max": 4,
         "hitboxOffset": {
             "X": 0,
@@ -1883,25 +1891,25 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 100,
+                "Damage": 250,
                 "Cooldown": 1
             },
             {
                 "Price": 1400,
                 "Range": 18,
-                "Damage": 125,
+                "Damage": 355,
                 "Cooldown": 1
             },
             {
                 "Price": 1800,
                 "Range": 22,
-                "Damage": 160,
+                "Damage": 600,
                 "Cooldown": 1
             },
             {
                 "Price": 2400,
                 "Range": 25,
-                "Damage": 250,
+                "Damage": 1000,
                 "Cooldown": 1
             }
         ]
@@ -2303,7 +2311,7 @@
         "Type": "Continuous Explosion",
         "Image": "rbxassetid://105626084388274",
         "Rarity": "CosmIc",
-        "PlacePrice": 15000,
+        "PlacePrice": 22500,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -2458,10 +2466,10 @@
     },
       "Super Foxy": {
         "Type": "AOE",
-        "Image": "rbxassetid://106450470356179",
+        "Image": "rbxassetid://94795436642751",
         "Rarity": "Mythic",
         "PlacePrice": 4500,
-        "Max": 3,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2471,25 +2479,25 @@
             {
                 "Price": 0,
                 "Range": 12,
-                "Damage": 300,
+                "Damage": 250,
                 "Cooldown": 1
             },
             {
                 "Price": 5000,
                 "Range": 16,
-                "Damage": 500,
+                "Damage": 450,
                 "Cooldown": 1
             },
             {
                 "Price": 5250,
                 "Range": 18,
-                "Damage": 650,
+                "Damage": 500,
                 "Cooldown": 0.7
             },
             {
                 "Price": 5750,
                 "Range": 19,
-                "Damage": 800,
+                "Damage": 650,
                 "Cooldown": 0.6
             }
         ]
@@ -2547,25 +2555,25 @@
             {
                 "Price": 0,
                 "Range": 18,
-                "Damage": 2500,
+                "Damage": 2000,
                 "Cooldown": 1
             },
             {
                 "Price": 22500,
                 "Range": 22,
-                "Damage": 4500,
+                "Damage": 3750,
                 "Cooldown": 1
             },
             {
                 "Price": 33240,
                 "Range": 24,
-                "Damage": 5250,
+                "Damage": 4500,
                 "Cooldown": 0.9
             },
             {
                 "Price": 37560,
                 "Range": 25,
-                "Damage": 6000,
+                "Damage": 5250,
                 "Cooldown": 0.8
             }
         ]
