@@ -2313,26 +2313,26 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 175,
-                "Cooldown": 0.1
-            },
-            {
-                "Price": 17500,
-                "Range": 22,
+                "Range": 25,
                 "Damage": 225,
                 "Cooldown": 0.1
             },
             {
+                "Price": 17500,
+                "Range": 27,
+                "Damage": 275,
+                "Cooldown": 0.1
+            },
+            {
                 "Price": 22500,
-                "Range": 24,
-                "Damage": 255,
+                "Range": 29,
+                "Damage": 325,
                 "Cooldown": 0.1
             },
             {
                 "Price": 27500,
-                "Range": 25,
-                "Damage": 275,
+                "Range": 31,
+                "Damage": 360,
                 "Cooldown": 0.1
             }
         ]
