@@ -2660,6 +2660,120 @@
             }
         ]
     },
+      "Saga": {
+        "Type": "Dual",
+        "Image": "rbxassetid://103522662446128",
+        "Rarity": "Nightmare",
+        "PlacePrice": 13500,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 800,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 17500,
+                "Range": 25,
+                "Damage": 1250,
+                "Cooldown": 0.6
+            },
+            {
+                "Price": 22500,
+                "Range": 28,
+                "Damage": 2000,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 33245,
+                "Range": 32,
+                "Damage": 4500,
+                "Cooldown": 0.3
+            }
+        ]
+    },
+      "NanoMeter": {
+        "Type": "Splash",
+        "Image": "rbxassetid://117864395575146",
+        "Rarity": "Mythic",
+        "PlacePrice": 5555,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 800,
+                "Cooldown": 2
+            },
+            {
+                "Price": 6555,
+                "Range": 18,
+                "Damage": 1250,
+                "Cooldown": 1.45
+            },
+            {
+                "Price": 7555,
+                "Range": 22,
+                "Damage": 2000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 8555,
+                "Range": 24,
+                "Damage": 4500,
+                "Cooldown": 1
+            }
+        ]
+    },
+      "Noah_boi": {
+        "Type": "NOAH",
+        "Image": "rbxassetid://88801126477294",
+        "Rarity": "Nightmare",
+        "PlacePrice": 19090,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 750,
+                "Cooldown": 2
+            },
+            {
+                "Price": 29090,
+                "Range": 14,
+                "Damage": 1550,
+                "Cooldown": 1.45
+            },
+            {
+                "Price": 39090,
+                "Range": 19,
+                "Damage": 2700,
+                "Cooldown": 1
+            },
+            {
+                "Price": 49090,
+                "Range": 24,
+                "Damage": 10000,
+                "Cooldown": 1
+            }
+        ]
+    },
      "Rad Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18258392627",
