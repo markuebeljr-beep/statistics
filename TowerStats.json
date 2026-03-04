@@ -2774,6 +2774,44 @@
             }
         ]
     },
+      "MeterNano": {
+        "Type": "METEH",
+        "Image": "rbxassetid://104008314730961",
+        "Rarity": "Nightmare",
+        "PlacePrice": 1,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 100,
+                "Damage": 100000,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 2,
+                "Range": 123,
+                "Damage": 1234444,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 3,
+                "Range": 134,
+                "Damage": 124312412,
+                "Cooldown": 0.00002
+            },
+            {
+                "Price": 1421231212,
+                "Range": 12312312,
+                "Damage": 1,
+                "Cooldown": 20
+            }
+        ]
+    },
      "Rad Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18258392627",
