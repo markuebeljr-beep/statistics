@@ -2850,6 +2850,44 @@
             }
         ]
     },
+       "Sandy Boy": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://16781077553",
+        "Rarity": "Secret",
+        "PlacePrice": 7500,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 2450,
+                "Cooldown": 4
+            },
+            {
+                "Price": 10000,
+                "Range": 15,
+                "Damage": 3360,
+                "Cooldown": 3.5
+            },
+            {
+                "Price": 15000,
+                "Range": 18,
+                "Damage": 4150,
+                "Cooldown": 3
+            },
+            {
+                "Price": 25000,
+                "Range": 25,
+                "Damage": 5670,
+                "Cooldown": 2.5
+            }
+        ]
+    },
      "Rad Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18258392627",
