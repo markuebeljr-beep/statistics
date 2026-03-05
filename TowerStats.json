@@ -2322,25 +2322,25 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 225,
+                "Damage": 200,
                 "Cooldown": 0.1
             },
             {
                 "Price": 17500,
                 "Range": 27,
-                "Damage": 275,
+                "Damage": 255,
                 "Cooldown": 0.1
             },
             {
                 "Price": 22500,
                 "Range": 29,
-                "Damage": 325,
+                "Damage": 300,
                 "Cooldown": 0.1
             },
             {
                 "Price": 27500,
                 "Range": 31,
-                "Damage": 360,
+                "Damage": 325,
                 "Cooldown": 0.1
             }
         ]
@@ -2828,31 +2828,31 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 15000,
-                "Cooldown": 2
+                "Cooldown": 3
             },
             {
                 "Price": 55000,
                 "Range": 24,
                 "Damage": 16500,
-                "Cooldown": 1.45
+                "Cooldown": 2.6
             },
             {
                 "Price": 60000,
                 "Range": 28,
                 "Damage": 22000,
-                "Cooldown": 1
+                "Cooldown": 2.3
             },
             {
                 "Price": 65000,
                 "Range": 32,
                 "Damage": 30000,
-                "Cooldown": 0.8
+                "Cooldown": 2
             }
         ]
     },
        "Sandy Boy": {
         "Type": "Explosion",
-        "Image": "rbxassetid://16781077553",
+        "Image": "rbxassetid://101550177948547",
         "Rarity": "Secret",
         "PlacePrice": 7500,
         "Max": 2,
