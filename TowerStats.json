@@ -2578,7 +2578,7 @@
             }
         ]
     },
-      "Safety Bonnie": {
+     "Safety Bonnie": {
         "Type": "Support",
         "Image": "rbxassetid://93803064734036",
         "Rarity": "Secret",
@@ -2596,105 +2596,28 @@
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.12
+                "RangeBoost": 1.1
             },
             {
-                "Price": 1700,
+                "Price": 1200,
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.17
+                "RangeBoost": 1.15
             },
             {
-                "Price": 2200,
+                "Price": 1400,
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.24
+                "RangeBoost": 1.2
             },
             {
-                "Price": 2500,
+                "Price": 1800,
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.27
-            }
-        ]
-    },
-     "Gamer Girl Freddy": {
-        "Type": "Single",
-        "Image": "rbxassetid://108126550075711",
-        "Rarity": "Secret",
-        "PlacePrice": 250,
-        "Max": 5,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Offset": -1.3,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 12,
-                "Damage": 100,
-                "Cooldown": 1
-            },
-            {
-                "Price": 500,
-                "Range": 15,
-                "Damage": 175,
-                "Cooldown": 1
-            },
-            {
-                "Price": 750,
-                "Range": 18,
-                "Damage": 300,
-                "Cooldown": 0.9
-            },
-            {
-                "Price": 1000,
-                "Range": 23,
-                "Damage": 325,
-                "Cooldown": 0.8
-            }
-        ]
-    },
-      "Saga": {
-        "Type": "Dual",
-        "Image": "rbxassetid://103522662446128",
-        "Rarity": "Nightmare",
-        "PlacePrice": 13500,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 22,
-                "Damage": 800,
-                "Cooldown": 0.8
-            },
-            {
-                "Price": 17500,
-                "Range": 25,
-                "Damage": 1250,
-                "Cooldown": 0.6
-            },
-            {
-                "Price": 22500,
-                "Range": 28,
-                "Damage": 2000,
-                "Cooldown": 0.4
-            },
-            {
-                "Price": 33245,
-                "Range": 32,
-                "Damage": 4500,
-                "Cooldown": 0.3
+                "RangeBoost": 1.25
             }
         ]
     },
