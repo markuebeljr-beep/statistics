@@ -2811,6 +2811,45 @@
             }
         ]
     },
+     "Gamer Girl Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://108126550075711",
+        "Rarity": "Secret",
+        "PlacePrice": 250,
+        "Max": 4,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 350,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 500,
+                "Range": 12,
+                "Damage": 400,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 750,
+                "Range": 14,
+                "Damage": 500,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 1250,
+                "Range": 15,
+                "Damage": 650,
+                "Cooldown": 0.3
+            }
+        ]
+    },
      "Rad Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18258392627",
