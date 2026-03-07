@@ -2902,6 +2902,7 @@
         "Rarity": "Mythic",
         "PlacePrice": 6750,
         "Max": 3,
+        "Offset": -0.2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2911,25 +2912,25 @@
             {
                 "Price": 0,
                 "Range": 13,
-                "Damage": 2500,
+                "Damage": 2000,
                 "Cooldown": 2
             },
             {
                 "Price": 8250,
                 "Range": 15,
-                "Damage": 3250,
+                "Damage": 2550,
                 "Cooldown": 1.7
             },
             {
                 "Price": 10000,
                 "Range": 16,
-                "Damage": 4000,
+                "Damage": 3450,
                 "Cooldown": 1.5
             },
             {
                 "Price": 13000,
                 "Range": 17,
-                "Damage": 5200,
+                "Damage": 4575,
                 "Cooldown": 1.5
             }
         ]
