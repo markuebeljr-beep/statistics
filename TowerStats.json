@@ -2935,6 +2935,45 @@
             }
         ]
     },
+    "Shadow Mangle": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://74483482310988",
+        "Rarity": "Secret",
+        "PlacePrice": 11500,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -0.2,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 16,
+                "Damage": 1000,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 18650,
+                "Range": 18,
+                "Damage": 1750,
+                "Cooldown": 1.25
+            },
+            {
+                "Price": 22500,
+                "Range": 22,
+                "Damage": 3460,
+                "Cooldown": 1
+            },
+            {
+                "Price": 2500,
+                "Range": 24,
+                "Damage": 4000,
+                "Cooldown": 0.75
+            }
+        ]
+    },
      "Rad Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18258392627",
