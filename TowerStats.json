@@ -2974,6 +2974,44 @@
             }
         ]
     },
+       "Shadow Puppet": {
+        "Type": "Splash",
+        "Image": "rbxassetid://117006848746724",
+        "Rarity": "Nightmare",
+        "PlacePrice": 23232,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 4500,
+                "Cooldown": 2
+            },
+            {
+                "Price": 32323,
+                "Range": 22,
+                "Damage": 5454,
+                "Cooldown": 1.7
+            },
+            {
+                "Price": 34343,
+                "Range": 24,
+                "Damage": 6500,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 43434,
+                "Range": 25,
+                "Damage": 7650,
+                "Cooldown": 1.5
+            }
+        ]
+    },
      "Rad Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18258392627",
