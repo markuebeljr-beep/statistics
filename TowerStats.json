@@ -2849,6 +2849,53 @@
             }
         ]
     },
+     "Shadow Toy Chica": {
+        "Type": "AOE Poison",
+        "Image": "rbxassetid://122200898965453",
+        "Rarity": "Nightmare",
+        "PlacePrice": 20000,
+        "Max": 2,
+        "Passive": {"Name": "Corrupt Voice", "Description": "Deals an extra 10% damage in poison"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 13,
+                "Damage": 35,
+                "Cooldown": 0.05,
+                "Poison": 3,
+                "PoisonLength": 1
+            },
+            {
+                "Price": 32500,
+                "Range": 15,
+                "Damage": 45,
+                "Cooldown": 0.05,
+                "Poison": 6,
+                "PoisonLength": 1
+            },
+            {
+                "Price": 45000,
+                "Range": 17,
+                "Damage": 65,
+                "Cooldown": 0.05,
+                "Poison": 9,
+                "PoisonLength": 1
+            },
+            {
+                "Price": 50000,
+                "Range": 18,
+                "Damage": 90,
+                "Cooldown": 0.05,
+                "Poison": 10,
+                "PoisonLength": 1
+            }
+        ]
+    },
      "Rad Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18258392627",
