@@ -3654,8 +3654,7 @@
             }
         ]
     },
-    
-        "KILLDRIVEN Shadow": {
+     "KILLDRIVEN Shadow": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://121758504341491",
         "Rarity": "CoSmic",
