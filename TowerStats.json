@@ -2636,25 +2636,25 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 800,
+                "Damage": 450,
                 "Cooldown": 2
             },
             {
                 "Price": 6555,
                 "Range": 18,
-                "Damage": 1250,
+                "Damage": 650,
                 "Cooldown": 1.45
             },
             {
                 "Price": 7555,
                 "Range": 22,
-                "Damage": 2000,
+                "Damage": 1000,
                 "Cooldown": 1
             },
             {
                 "Price": 8555,
                 "Range": 24,
-                "Damage": 3000,
+                "Damage": 1340,
                 "Cooldown": 1
             }
         ]
@@ -3214,7 +3214,7 @@
         "Image": "rbxassetid://18673468864",
         "Rarity": "Secret",
         "PlacePrice": 350,
-        "Max": 2,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -3228,13 +3228,13 @@
                 "Damage": 45,
                 "Cooldown": 0.25,
                 "SummonTime": 35,
-                "Health": 20,
-                "WalkSpeed": 8,
+                "Health": 35,
+                "WalkSpeed": 100,
                 "Amount": 1,
                 "Unit": "Infantry Endo",
                 "Offset": -2,
                 "SummonRange": 14,
-                "SummonDamage": 10,
+                "SummonDamage": 25,
                 "SummonCooldown": 0.25
             },
             {
@@ -3243,13 +3243,13 @@
                 "Damage": 65,
                 "Cooldown": 0.25,
                 "SummonTime": 34,
-                "Health": 30,
-                "WalkSpeed": 8,
+                "Health": 45,
+                "WalkSpeed": 100,
                 "Amount": 1,
                 "Unit": "Infantry Endo",
                 "Offset": -2,
                 "SummonRange": 16,
-                "SummonDamage": 15,
+                "SummonDamage": 35,
                 "SummonCooldown": 0.25
             },
             {
@@ -3258,13 +3258,13 @@
                 "Damage": 80,
                 "Cooldown": 0.25,
                 "SummonTime": 33,
-                "Health": 50,
-                "WalkSpeed": 9,
-                "Amount": 1,
+                "Health": 65,
+                "WalkSpeed": 100,
+                "Amount": 2,
                 "Unit": "Infantry Endo",
                 "Offset": -2,
                 "SummonRange": 24,
-                "SummonDamage": 25,
+                "SummonDamage": 40,
                 "SummonCooldown": 0.25
             },
             {
@@ -3273,13 +3273,13 @@
                 "Damage": 115,
                 "Cooldown": 0.25,
                 "SummonTime": 32,
-                "Health": 75,
-                "WalkSpeed": 10,
+                "Health": 100,
+                "WalkSpeed": 100,
                 "Amount": 1,
                 "Unit": "Infantry Endo",
                 "Offset": -2,
                 "SummonRange": 30,
-                "SummonDamage": 35,
+                "SummonDamage": 55,
                 "SummonCooldown": 0.25
             }
         ]
