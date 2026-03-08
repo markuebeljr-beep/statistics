@@ -3694,6 +3694,47 @@
             }
         ]
     },
+     "Sparky": {
+        "Type": "AOE",
+        "Image": "rbxassetid://106044817477654",
+        "Rarity": "Contest",
+        "PlacePrice": 59214,
+        "Offset": 0.4,
+        "Max": 1,
+        "MaxChain": 3,
+        "Passive": {"Name": "Power Hungry", "Description": "Attacks hit up to 3 different targets. Gains +0.85% extra damage per enemy killed up to +70.55% and gains +0.5% extra damage for every 1 base HP lost."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 50000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 64323,
+                "Range": 33,
+                "Damage": 74000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 78567,
+                "Range": 36,
+                "Damage": 88000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 95873,
+                "Range": 40,
+                "Damage": 100000,
+                "Cooldown": 1
+            }
+        ]
+    },
      "Rad Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18258392627",
