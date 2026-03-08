@@ -3615,6 +3615,45 @@
             }
         ]
     },
+        "Saga": {
+        "Type": "Dual",
+        "Image": "rbxassetid://103522662446128",
+        "Rarity": "Contest",
+        "PlacePrice": 15000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 370,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 17500,
+                "Range": 23,
+                "Damage": 500,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 20000,
+                "Range": 26,
+                "Damage": 675,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 22500,
+                "Range": 29,
+                "Damage": 1000,
+                "Cooldown": 0.3
+            }
+        ]
+    },
      "Rad Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18258392627",
