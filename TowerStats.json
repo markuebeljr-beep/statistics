@@ -3734,6 +3734,45 @@
             }
         ]
     },
+     "Zombified Enforcer": {
+        "Type": "Single",
+        "Image": "rbxassetid://104364000368797",
+        "Rarity": "Mythic",
+        "PlacePrice": 8950,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.25,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 14,
+                "Damage": 1345,
+                "Cooldown": 3
+            },
+            {
+                "Price": 14350,
+                "Range": 16,
+                "Damage": 2000,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 16755,
+                "Range": 17,
+                "Damage": 2875,
+                "Cooldown": 2.2
+            },
+            {
+                "Price": 23450,
+                "Range": 19,
+                "Damage": 3457,
+                "Cooldown": 1.8
+            }
+        ]
+    },
      "Rad Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18258392627",
