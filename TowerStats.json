@@ -3773,6 +3773,45 @@
             }
         ]
     },
+     "Rotten Mangle": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://113354239799639",
+        "Rarity": "Secret",
+        "PlacePrice": 15750,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -0.2,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 2540,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 22340,
+                "Range": 14,
+                "Damage": 3564,
+                "Cooldown": 2.2
+            },
+            {
+                "Price": 27845,
+                "Range": 16,
+                "Damage": 4050,
+                "Cooldown": 1.8
+            },
+            {
+                "Price": 33450,
+                "Range": 16,
+                "Damage": 4200,
+                "Cooldown": 1.5
+            }
+        ]
+    },
      "Rad Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18258392627",
