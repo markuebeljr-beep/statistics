@@ -3902,6 +3902,45 @@
             }
         ]
     },
+     "Militia Warrior Bonnie": {
+        "Type": "Continuous + Passive",
+        "Image": "rbxassetid://112261751967406",
+        "Rarity": "COsmic",
+        "PlacePrice": 34500,
+        "Offset": 0.35,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 65,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 43560,
+                "Range": 21,
+                "Damage": 75,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 50000,
+                "Range": 22,
+                "Damage": 85,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 62500,
+                "Range": 24,
+                "Damage": 115,
+                "Cooldown": 0.05
+            }
+        ]
+    },
      "Rad Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18258392627",
