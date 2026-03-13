@@ -3865,7 +3865,7 @@
         ]
     },
      "Militia Warrior Bonnie": {
-        "Type": "Continuous + Passive",
+        "Type": "Continuous",
         "Image": "rbxassetid://112261751967406",
         "Rarity": "COsmic",
         "PlacePrice": 34500,
@@ -3880,25 +3880,25 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 65,
+                "Damage": 100,
                 "Cooldown": 0.05
             },
             {
                 "Price": 43560,
                 "Range": 21,
-                "Damage": 75,
+                "Damage": 145,
                 "Cooldown": 0.05
             },
             {
                 "Price": 50000,
                 "Range": 22,
-                "Damage": 85,
+                "Damage": 190,
                 "Cooldown": 0.05
             },
             {
                 "Price": 62500,
                 "Range": 24,
-                "Damage": 115,
+                "Damage": 265,
                 "Cooldown": 0.05
             }
         ]
