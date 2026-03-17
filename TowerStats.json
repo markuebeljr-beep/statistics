@@ -4305,7 +4305,7 @@
         ]
     },
      "Sweetheart Chica": {
-        "Type": "Damage+Range Booster",
+        "Type": "Damage + Range Booster",
         "Image": "rbxassetid://138225611686853",
         "Rarity": "Secret",
         "PlacePrice": 1250,
@@ -4322,32 +4322,32 @@
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 1.06,
-                "RangeBoost": 1.06
+                "DamageBoost": 1.05,
+                "RangeBoost": 1.05
             },
             {
                 "Price": 1700,
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 1.12,
-                "RangeBoost": 1.12
+                "DamageBoost": 1.11,
+                "RangeBoost": 1.11
             },
             {
                 "Price": 2200,
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 1.18,
-                "RangeBoost": 1.18
+                "DamageBoost": 1.17,
+                "RangeBoost": 1.17
             },
             {
                 "Price": 2500,
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 1.24,
-                "RangeBoost": 1.24
+                "DamageBoost": 1.23,
+                "RangeBoost": 1.23
             }
         ]
     },
