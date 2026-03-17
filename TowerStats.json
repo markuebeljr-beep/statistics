@@ -4227,6 +4227,83 @@
             }
         ]
     },
+    "Shamrock Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://85655832553279",
+        "Rarity": "Mythic",
+        "PlacePrice": 450,
+        "Max": 5,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 14,
+                "Damage": 80,
+                "Cooldown": 1
+            },
+            {
+                "Price": 650,
+                "Range": 17,
+                "Damage": 115,
+                "Cooldown": 1
+            },
+            {
+                "Price": 900,
+                "Range": 19,
+                "Damage": 155,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1500,
+                "Range": 22,
+                "Damage": 200,
+                "Cooldown": 0.75
+            }
+        ]
+    },
+    "Shamrock Golden Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://72721269488625",
+        "Rarity": "Secret",
+        "PlacePrice": 6500,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 17,
+                "Damage": 700,
+                "Cooldown": 1.3
+            },
+            {
+                "Price": 8900,
+                "Range": 19,
+                "Damage": 1000,
+                "Cooldown": 1.1
+            },
+            {
+                "Price": 12345,
+                "Range": 21,
+                "Damage": 1500,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 16700,
+                "Range": 23,
+                "Damage": 1977,
+                "Cooldown": 0.8
+            }
+        ]
+    },
      "Rad Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18258392627",
