@@ -4346,8 +4346,8 @@
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 1.21,
-                "RangeBoost": 1.21
+                "DamageBoost": 1.20,
+                "RangeBoost": 1.20
             }
         ]
     },
