@@ -4338,16 +4338,16 @@
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 1.17,
-                "RangeBoost": 1.17
+                "DamageBoost": 1.15,
+                "RangeBoost": 1.15
             },
             {
                 "Price": 2500,
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 1.23,
-                "RangeBoost": 1.23
+                "DamageBoost": 1.21,
+                "RangeBoost": 1.21
             }
         ]
     },
