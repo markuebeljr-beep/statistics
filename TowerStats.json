@@ -4771,25 +4771,33 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 35,
-                "Cooldown": 0.1
+                "Cooldown": 0.1,
+                "Burn": 5,
+                "BurnLength": 1
             },
             {
                 "Price": 15000,
                 "Range": 18,
                 "Damage": 40,
-                "Cooldown": 0.1
+                "Cooldown": 0.1,
+                "Burn": 5,
+                "BurnLength": 1.1
             },
             {
                 "Price": 20000,
                 "Range": 22,
                 "Damage": 45,
-                "Cooldown": 0.1
+                "Cooldown": 0.1,
+                "Burn": 7,
+                "BurnLength": 1.2
             },
             {
                 "Price": 25000,
                 "Range": 25,
                 "Damage": 50,
                 "Cooldown": 0.1
+                "Burn": 8,
+                "BurnLength": 1.5
             }
         ]
     },
@@ -4809,25 +4817,33 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 850,
-                "Cooldown": 2
+                "Cooldown": 2,
+                "Bleed": 23,
+                "BleedLength": 2.4
             },
             {
                 "Price": 22500,
                 "Range": 17,
                 "Damage": 1245,
-                "Cooldown": 1.6
+                "Cooldown": 1.6,
+                "Bleed": 25,
+                "BleedLength": 2.8
             },
             {
                 "Price": 29950,
                 "Range": 18,
                 "Damage": 1654,
-                "Cooldown": 1.2
+                "Cooldown": 1.2,
+                "Bleed": 27,
+                "BleedLength": 3.2
             },
             {
                 "Price": 34560,
                 "Range": 20,
                 "Damage": 2000,
-                "Cooldown": 1
+                "Cooldown": 1,
+                "Bleed": 30,
+                "BleedLength": 3.5
             }
         ]
     },
