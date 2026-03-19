@@ -944,25 +944,25 @@
             {
                 "Price": 0,
                 "Range": 10,
-                "Damage": 30,
+                "Damage": 25,
                 "Cooldown": 0.05
             },
             {
                 "Price": 30000,
                 "Range": 15,
-                "Damage": 45,
+                "Damage": 35,
                 "Cooldown": 0.05
             },
             {
                 "Price": 40000,
                 "Range": 20,
-                "Damage": 60,
+                "Damage": 45,
                 "Cooldown": 0.05
             },
             {
                 "Price": 50000,
                 "Range": 25,
-                "Damage": 75,
+                "Damage": 55,
                 "Cooldown": 0.05
             }
         ]
@@ -2426,7 +2426,7 @@
         "Image": "rbxassetid://123224011238633",
         "Rarity": "Epic",
         "PlacePrice": 350,
-        "Max": 3,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -3815,7 +3815,7 @@
                 "Price": 40000,
                 "Range": 24,
                 "Damage": 5000,
-                "Cooldown": 1.2
+                "Cooldown": 1.4
             }
         ]
     },
@@ -4077,28 +4077,28 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 13,
+                "Range": 15,
                 "Damage": 30,
                 "Cooldown": 1,
                 "RangeBoost" : 1.07
             },
             {
                 "Price": 800,
-                "Range": 14,
+                "Range": 16,
                 "Damage": 40,
                 "Cooldown": 1,
                 "RangeBoost" : 1.1
             },
             {
                 "Price": 1200,
-                "Range": 15,
+                "Range": 17,
                 "Damage": 50,
                 "Cooldown": 1,
                 "RangeBoost" : 1.15
             },
             {
                 "Price": 2000,
-                "Range": 15,
+                "Range": 18,
                 "Damage": 50,
                 "Cooldown": 0.75,
                 "RangeBoost" : 1.18
