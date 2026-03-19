@@ -4754,6 +4754,83 @@
             }
         ]
     },
+     "Flamer Endo": {
+        "Type": "Continuous Burn",
+        "Image": "rbxassetid://134511158201489",
+        "Rarity": "Mythic",
+        "PlacePrice": 10000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -0.5,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 35,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 15000,
+                "Range": 18,
+                "Damage": 40,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 20000,
+                "Range": 22,
+                "Damage": 45,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 25000,
+                "Range": 25,
+                "Damage": 50,
+                "Cooldown": 0.1
+            }
+        ]
+    },
+     "Follow Me": {
+        "Type": "Single Bleed",
+        "Image": "rbxassetid://80853927584962",
+        "Rarity": "Secret",
+        "PlacePrice": 15000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 850,
+                "Cooldown": 2
+            },
+            {
+                "Price": 22500,
+                "Range": 17,
+                "Damage": 1245,
+                "Cooldown": 1.6
+            },
+            {
+                "Price": 29950,
+                "Range": 18,
+                "Damage": 1654,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 34560,
+                "Range": 20,
+                "Damage": 2000,
+                "Cooldown": 1
+            }
+        ]
+    },
      "Rad Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18258392627",
