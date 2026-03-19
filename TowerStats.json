@@ -4795,7 +4795,7 @@
                 "Price": 25000,
                 "Range": 25,
                 "Damage": 50,
-                "Cooldown": 0.1
+                "Cooldown": 0.1,
                 "Burn": 8,
                 "BurnLength": 1.5
             }
