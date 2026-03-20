@@ -4624,7 +4624,7 @@
      "Malfunction Freddy": {
         "Type": "Pierce",
         "Image": "rbxassetid://105579933920277",
-        "Rarity": "Secret",
+        "Rarity": "Mythic",
         "PlacePrice": 1001,
         "Max": 3,
         "hitboxOffset": {
