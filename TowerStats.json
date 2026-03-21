@@ -4847,6 +4847,227 @@
             }
         ]
     },
+     "Startime Withered Chica": {
+        "Type": "Support",
+        "Image": "rbxassetid://79757918537854",
+        "Rarity": "Epic",
+        "PlacePrice": 855,
+        "NoEnemyAttack": true,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 13,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.1
+            },
+            {
+                "Price": 1200,
+                "Range": 14,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.14
+            },
+            {
+                "Price": 1400,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.18
+            },
+            {
+                "Price": 1800,
+                "Range": 16,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.22
+            }
+        ]
+    },
+    "Startime Withered Foxy": {
+        "Type": "Single Farm",
+        "Image": "rbxassetid://130159089884921",
+        "Rarity": "Epic",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 120,
+                "Cooldown": 1.5,
+                "Farm": 300
+            },
+            {
+                "Price": 2500,
+                "Range": 16,
+                "Damage": 200,
+                "Cooldown": 1.2,
+                "Farm": 450
+            },
+            {
+                "Price": 4000,
+                "Range": 17,
+                "Damage": 345,
+                "Cooldown": 1,
+                "Farm": 700
+            },
+            {
+                "Price": 6500,
+                "Range": 17,
+                "Damage": 450,
+                "Cooldown": 1,
+                "Farm": 1000
+            }
+        ]
+    },
+    "Startime Withered Bonnie": {
+        "Type": "Single + Booster",
+        "Image": "rbxassetid://100854115629666",
+        "Rarity": "Mythic",
+        "PlacePrice": 5000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 13,
+                "Damage": 10,
+                "Cooldown": 0.1,
+                "DamageBoost" : 1.07
+            },
+            {
+                "Price": 4355,
+                "Range": 15,
+                "Damage": 15,
+                "Cooldown": 0.1,
+                "DamageBoost" : 1.12
+            },
+            {
+                "Price": 6550,
+                "Range": 17,
+                "Damage": 20,
+                "Cooldown": 0.1,
+                "DamageBoost" : 1.17
+            },
+            {
+                "Price": 8000,
+                "Range": 18,
+                "Damage": 25,
+                "Cooldown": 0.1,
+                "DamageBoost" : 1.24
+            }
+        ]
+    },
+    "Startime Withered Freddy": {
+        "Type": "Damage Boost + Farm",
+        "Image": "rbxassetid://133440299647474",
+        "Rarity": "Secret",
+        "PlacePrice": 1500,
+        "NoEnemyAttack": true,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 2,
+                "DamageBoost": 1.06,
+                "Farm": 100
+            },
+            {
+                "Price": 1700,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 2,
+                "DamageBoost": 1.12,
+                "Farm": 150
+            },
+            {
+                "Price": 2200,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 2,
+                "DamageBoost": 1.18,
+                "Farm": 200
+            },
+            {
+                "Price": 2500,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 2,
+                "DamageBoost": 1.24,
+                "Farm": 225
+            }
+        ]
+    },
+     "Startime Mangle": {
+        "Type": "Dual Booster + Splash",
+        "Image": "rbxassetid://76353508052064",
+        "Rarity": "Nightmare",
+        "PlacePrice": 22500,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 2500,
+                "Cooldown": 1.5,
+                "DamageBoost": 1.04,
+                "RangeBoost": 1.04
+            },
+            {
+                "Price": 32500,
+                "Range": 15,
+                "Damage": 3250,
+                "Cooldown": 1.5,
+                "DamageBoost": 1.1,
+                "RangeBoost": 1.1
+            },
+            {
+                "Price": 45000,
+                "Range": 15,
+                "Damage": 4000,
+                "Cooldown": 1.5,
+                "DamageBoost": 1.14,
+                "RangeBoost": 1.14
+            },
+            {
+                "Price": 52500,
+                "Range": 15,
+                "Damage": 5000,
+                "Cooldown": 1.5,
+                "DamageBoost": 1.19,
+                "RangeBoost": 1.19
+            }
+        ]
+    },
      "Rad Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18258392627",
