@@ -4895,7 +4895,6 @@
         "Image": "rbxassetid://130159089884921",
         "Rarity": "Epic",
         "PlacePrice": 1000,
-        "Offset": 0,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -5065,6 +5064,49 @@
                 "Cooldown": 1.5,
                 "DamageBoost": 1.19,
                 "RangeBoost": 1.19
+            }
+        ]
+    },
+    "Gangsta' Duo": {
+        "Type": "Support",
+        "Image": "rbxassetid://79757918537854",
+        "Rarity": "Rare",
+        "PlacePrice": 855,
+        "NoEnemyAttack": true,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 13,
+                "Damage": 0,
+                "Cooldown": 1,
+                "SpeedBoost": 1.1
+            },
+            {
+                "Price": 1200,
+                "Range": 14,
+                "Damage": 0,
+                "Cooldown": 1,
+                "SpeedBoost": 1.14
+            },
+            {
+                "Price": 1400,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "SpeedBoost": 1.18
+            },
+            {
+                "Price": 1800,
+                "Range": 16,
+                "Damage": 0,
+                "Cooldown": 1,
+                "SpeedBoost": 1.22
             }
         ]
     },
