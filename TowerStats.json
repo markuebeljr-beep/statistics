@@ -4529,15 +4529,15 @@
             {
                 "Price": 26666,
                 "Range": 16,
-                "Damage": 6666,
-                "Cooldown": 2
+                "Damage": 5666,
+                "Cooldown": 2,
                 "Bleed": 16,
                 "BleedLength": 1.6
             },
             {
                 "Price": 36666,
                 "Range": 16,
-                "Damage": 8666,
+                "Damage": 6666,
                 "Cooldown": 1.8,
                 "Bleed": 16,
                 "BleedLength": 1.6
@@ -4545,7 +4545,7 @@
             {
                 "Price": 66666,
                 "Range": 16,
-                "Damage": 12666,
+                "Damage": 7666,
                 "Cooldown": 1.6,
                 "Bleed": 16,
                 "BleedLength": 1.6
