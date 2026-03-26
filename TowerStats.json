@@ -6003,7 +6003,7 @@
         "Rarity": "CosmiC",
         "PlacePrice": 43210,
         "Max": 2,
-        "Offset": -0.4,
+        "Offset": -1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
