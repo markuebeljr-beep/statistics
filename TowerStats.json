@@ -6059,33 +6059,33 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 22,
-                "Damage": 8000,
+                "Range": 19,
+                "Damage": 5000,
                 "Cooldown": 2.5,
                 "Burn": 38,
                 "BurnLength": 1.2
             },
             {
                 "Price": 20000,
-                "Range": 24,
-                "Damage": 9450,
-                "Cooldown": 2,
+                "Range": 20,
+                "Damage": 7500,
+                "Cooldown": 2.3,
                 "Burn": 38,
                 "BurnLength": 1.2
             },
             {
                 "Price": 25000,
-                "Range": 28,
-                "Damage": 12500,
-                "Cooldown": 1.6,
+                "Range": 24,
+                "Damage": 8500,
+                "Cooldown": 2.1,
                 "Burn": 38,
                 "BurnLength": 1.2
             },
             {
                 "Price": 30000,
-                "Range": 30,
-                "Damage": 14500,
-                "Cooldown": 1.5,
+                "Range": 26,
+                "Damage": 10000,
+                "Cooldown": 2,
                 "Burn": 38,
                 "BurnLength": 1.2
             }
