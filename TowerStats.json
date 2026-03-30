@@ -6044,6 +6044,280 @@
             }
         ]
     },
+   "Flaming Springtrap": {
+        "Type": "AOE Burn",
+        "Image": "rbxassetid://90439626995960",
+        "Rarity": "Secret",
+        "PlacePrice": 16000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 8000,
+                "Cooldown": 2.5,
+                "Burn": 38,
+                "BurnLength": 1.2
+            },
+            {
+                "Price": 20000,
+                "Range": 24,
+                "Damage": 9450,
+                "Cooldown": 2,
+                "Burn": 38,
+                "BurnLength": 1.2
+            },
+            {
+                "Price": 25000,
+                "Range": 28,
+                "Damage": 12500,
+                "Cooldown": 1.6,
+                "Burn": 38,
+                "BurnLength": 1.2
+            },
+            {
+                "Price": 30000,
+                "Range": 30,
+                "Damage": 14500,
+                "Cooldown": 1.5,
+                "Burn": 38,
+                "BurnLength": 1.2
+            }
+        ]
+    },
+    "Azure Bounded Endo": {
+        "Type": "Splash Burn",
+        "Image": "rbxassetid://121637796295008",
+        "Rarity": "COSmic",
+        "PlacePrice": 33450,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 19,
+                "Damage": 10000,
+                "Cooldown": 3,
+                "Burn": 40,
+                "BurnLength": 1.2
+            },
+            {
+                "Price": 54350,
+                "Range": 22,
+                "Damage": 15000,
+                "Cooldown": 2.5,
+                "Burn": 42,
+                "BurnLength": 1.2
+            },
+            {
+                "Price": 67500,
+                "Range": 24,
+                "Damage": 19500,
+                "Cooldown": 2.2,
+                "Burn": 45,
+                "BurnLength": 1.2
+            },
+            {
+                "Price": 80000,
+                "Range": 27,
+                "Damage": 22350,
+                "Cooldown": 2,
+                "Burn": 50,
+                "BurnLength": 1.2
+            }
+        ]
+    },
+    "Underworld Warrior Puppet": {
+        "Type": "Pierce Burn",
+        "Image": "rbxassetid://90958029549803",
+        "Rarity": "Nightmare",
+        "PlacePrice": 22500,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 7500,
+                "Cooldown": 2,
+                "Burn": 38,
+                "BurnLength": 1.2
+            },
+            {
+                "Price": 42500,
+                "Range": 24,
+                "Damage": 9450,
+                "Cooldown": 1.8,
+                "Burn": 38,
+                "BurnLength": 1.2
+            },
+            {
+                "Price": 55000,
+                "Range": 28,
+                "Damage": 12345,
+                "Cooldown": 1.6,
+                "Burn": 38,
+                "BurnLength": 1.2
+            },
+            {
+                "Price": 70000,
+                "Range": 30,
+                "Damage": 14500,
+                "Cooldown": 1.5,
+                "Burn": 38,
+                "BurnLength": 1.2
+            }
+        ]
+    },
+    "Torched Cupcake": {
+        "Type": "Single Burn",
+        "Image": "rbxassetid://135175920595037",
+        "Rarity": "Mythic",
+        "PlacePrice": 11250,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 4500,
+                "Cooldown": 2.5,
+                "Burn": 25,
+                "BurnLength": 1.2
+            },
+            {
+                "Price": 15430,
+                "Range": 16,
+                "Damage": 5500,
+                "Cooldown": 2,
+                "Burn": 27,
+                "BurnLength": 1.2
+            },
+            {
+                "Price": 22500,
+                "Range": 18,
+                "Damage": 6500,
+                "Cooldown": 1.6,
+                "Burn": 38,
+                "BurnLength": 1.2
+            },
+            {
+                "Price": 30000,
+                "Range": 22,
+                "Damage": 8000,
+                "Cooldown": 1.5,
+                "Burn": 38,
+                "BurnLength": 1.2
+            }
+        ]
+    },
+    "Relfamed Freddy": {
+        "Type": "Continuous Burn",
+        "Image": "rbxassetid://90439626995960",
+        "Rarity": "Epic",
+        "PlacePrice": 2500,
+        "Offset": 0,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 17,
+                "Damage": 5,
+                "Cooldown": 0.05,
+                "Burn": 4,
+                "BurnLength": 1.2
+            },
+            {
+                "Price": 5500,
+                "Range": 19,
+                "Damage": 10,
+                "Cooldown": 0.05,
+                "Burn": 5,
+                "BurnLength": 1.2
+            },
+            {
+                "Price": 8000,
+                "Range": 20,
+                "Damage": 13,
+                "Cooldown": 0.05,
+                "Burn": 6,
+                "BurnLength": 1.2
+            },
+            {
+                "Price": 10000,
+                "Range": 22,
+                "Damage": 15,
+                "Cooldown": 0.05,
+                "Burn": 7,
+                "BurnLength": 1.2
+            }
+        ]
+    },
+    "Tarnished Spoon Bonnie": {
+        "Type": "Table+SPOONNNN",
+        "Image": "rbxassetid://103851484712805",
+        "Rarity": "Nightmare",
+        "PlacePrice": 40126,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 23,
+                "Damage": 5000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 53902,
+                "Range": 26,
+                "Damage": 7500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 58395,
+                "Range": 27,
+                "Damage": 10000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 69408,
+                "Range": 28,
+                "Damage": 12500,
+                "Cooldown": 1
+           }
+        ]
+    },
      "Rad Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18258392627",
