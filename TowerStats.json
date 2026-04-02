@@ -6322,7 +6322,7 @@
         "Type": "Single",
         "Image": "rbxassetid://138881464229887",
         "Rarity": "Mythic",
-        "PlacePrice": 1250,
+        "PlacePrice": 10000,
         "Max": 3,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -6338,19 +6338,19 @@
                 "Cooldown": 1
             },
             {
-                "Price": 2450,
+                "Price": 20000,
                 "Range": 12,
                 "Damage": 750,
                 "Cooldown": 0.9
             },
             {
-                "Price": 4500,
+                "Price": 30000,
                 "Range": 14,
                 "Damage": 1150,
                 "Cooldown": 0.8
             },
             {
-                "Price": 7000,
+                "Price": 40000,
                 "Range": 16,
                 "Damage": 2000,
                 "Cooldown": 0.75
@@ -6463,25 +6463,25 @@
             {
                 "Price": 65000,
                 "Range": 26,
-                "Damage": 125,
+                "Damage": 150,
                 "Cooldown": 0.1
             },
             {
                 "Price": 75000,
                 "Range": 27,
-                "Damage": 175,
+                "Damage": 250,
                 "Cooldown": 0.1
             },
             {
                 "Price": 85000,
                 "Range": 29,
-                "Damage": 225,
+                "Damage": 350,
                 "Cooldown": 0.1
             },
             {
                 "Price": 100000,
                 "Range": 31,
-                "Damage": 300,
+                "Damage": 500,
                 "Cooldown": 0.1
             }
         ]
