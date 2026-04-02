@@ -6318,6 +6318,204 @@
            }
         ]
     },
+      "Cakebear": {
+        "Type": "Single",
+        "Image": "rbxassetid://138881464229887",
+        "Rarity": "Mythic",
+        "PlacePrice": 1250,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 9,
+                "Damage": 650,
+                "Cooldown": 1
+            },
+            {
+                "Price": 2450,
+                "Range": 12,
+                "Damage": 750,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 4500,
+                "Range": 14,
+                "Damage": 1150,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 7000,
+                "Range": 16,
+                "Damage": 2000,
+                "Cooldown": 0.75
+            }
+        ]
+    },
+     "Astral Bonnie": {
+        "Type": "Continuous Splash",
+        "Image": "rbxassetid://93502994129292",
+        "Rarity": "Apex",
+        "PlacePrice": 50000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.25,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 500,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 35000,
+                "Range": 22,
+                "Damage": 600,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 50000,
+                "Range": 24,
+                "Damage": 700,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 70000,
+                "Range": 25,
+                "Damage": 800,
+                "Cooldown": 0.1
+            }
+        ]
+    },
+    "Reborn Freddy": {
+        "Type": "Splash Stun",
+        "Image": "rbxassetid://97218714949589",
+        "Rarity": "Nightmare",
+        "PlacePrice": 13000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 7850,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 22000,
+                "Range": 21,
+                "Damage": 10000,
+                "Cooldown": 2.3
+            },
+            {
+                "Price": 31000,
+                "Range": 22,
+                "Damage": 12500,
+                "Cooldown": 2.2
+            },
+            {
+                "Price": 40000,
+                "Range": 23,
+                "Damage": 14750,
+                "Cooldown": 2
+            }
+        ]
+    },
+     "Blighted Mech Freddy": {
+        "Type": "Continuous Splash",
+        "Image": "rbxassetid://116379833754381",
+        "Rarity": "Nightmare",
+        "PlacePrice": 45000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 100,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 65000,
+                "Range": 26,
+                "Damage": 125,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 75000,
+                "Range": 27,
+                "Damage": 175,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 85000,
+                "Range": 29,
+                "Damage": 225,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 100000,
+                "Range": 31,
+                "Damage": 300,
+                "Cooldown": 0.1
+            }
+        ]
+    },
+    "Overdriven Puppet": {
+        "Type": "Single",
+        "Image": "rbxassetid://83010708034095",
+        "Rarity": "Secret",
+        "PlacePrice": 11250,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 14,
+                "Damage": 2000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 17500,
+                "Range": 15,
+                "Damage": 3400,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 22500,
+                "Range": 16,
+                "Damage": 4450,
+                "Cooldown": 1.3
+            },
+            {
+                "Price": 30000,
+                "Range": 18,
+                "Damage": 6000,
+                "Cooldown": 1
+            }
+        ]
+    },
      "Rad Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18258392627",
