@@ -6564,7 +6564,7 @@
         ]
     },
     "Egg Trio": {
-        "Type": "Support",
+        "Type": "Cooldown Boost",
         "Image": "rbxassetid://136380363172167",
         "Rarity": "Secret",
         "PlacePrice": 1250,
