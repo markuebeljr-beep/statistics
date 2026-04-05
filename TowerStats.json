@@ -2899,9 +2899,9 @@
      "Shadow Cupcake": {
         "Type": "Pierce",
         "Image": "rbxassetid://112770735673453",
-        "Rarity": "Mythic",
+        "Rarity": "Secret",
         "PlacePrice": 6750,
-        "Max": 3,
+        "Max": 2,
         "Offset": -0.2,
         "hitboxOffset": {
             "X": 0,
@@ -2912,25 +2912,25 @@
             {
                 "Price": 0,
                 "Range": 13,
-                "Damage": 2000,
+                "Damage": 4000,
                 "Cooldown": 2
             },
             {
                 "Price": 8250,
                 "Range": 15,
-                "Damage": 2550,
+                "Damage": 5555,
                 "Cooldown": 1.7
             },
             {
                 "Price": 10000,
                 "Range": 16,
-                "Damage": 3450,
+                "Damage": 7000,
                 "Cooldown": 1.5
             },
             {
                 "Price": 13000,
                 "Range": 17,
-                "Damage": 4575,
+                "Damage": 8500,
                 "Cooldown": 1.5
             }
         ]
@@ -2975,10 +2975,10 @@
         ]
     },
       "Shadow Puppet": {
-        "Type": "Splash",
+        "Type": "Splash Bleed",
         "Image": "rbxassetid://117006848746724",
         "Rarity": "Nightmare",
-        "PlacePrice": 23232,
+        "PlacePrice": 21250,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -2989,26 +2989,34 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 4500,
-                "Cooldown": 2
+                "Damage": 6500,
+                "Cooldown": 2.5,
+                "Bleed": 35
+                "BleedLength": 1
             },
             {
                 "Price": 32323,
                 "Range": 22,
-                "Damage": 5454,
-                "Cooldown": 1.7
+                "Damage": 8000,
+                "Cooldown": 2.3,
+                "Bleed": 35
+                "BleedLength": 1
             },
             {
                 "Price": 34343,
                 "Range": 24,
-                "Damage": 6500,
-                "Cooldown": 1.5
+                "Damage": 12500,
+                "Cooldown": 2.2,
+                "Bleed": 35
+                "BleedLength": 1
             },
             {
                 "Price": 43434,
                 "Range": 25,
-                "Damage": 7650,
-                "Cooldown": 1.5
+                "Damage": 14500,
+                "Cooldown": 2,
+                "Bleed": 35
+                "BleedLength": 1
             }
         ]
     },
@@ -3655,10 +3663,10 @@
         ]
     },
      "KILLDRIVEN Shadow": {
-        "Type": "Cone AOE",
+        "Type": "Cone 180 + Poison",
         "Image": "rbxassetid://121758504341491",
         "Rarity": "CoSmic",
-        "PlacePrice": 32323,
+        "PlacePrice": 30000,
         "Offset": 0,
         "Max": 2,
         "hitboxOffset": {
@@ -3670,26 +3678,34 @@
             {
                 "Price": 0,
                 "Range": 14,
-                "Damage": 4250,
-                "Cooldown": 1.45
+                "Damage": 12500,
+                "Cooldown": 1.9,
+                "Poison": 20,
+                "PoisonLength": 1
             },
             {
-                "Price": 43333,
+                "Price": 50000,
                 "Range": 16,
-                "Damage": 6245,
-                "Cooldown": 1.32
+                "Damage": 14500,
+                "Cooldown": 1.7,
+                "Poison": 25,
+                "PoisonLength": 1
             },
             {
-                "Price": 54444,
+                "Price": 75000,
                 "Range": 17,
-                "Damage": 7500,
-                "Cooldown": 1.3
+                "Damage": 17500,
+                "Cooldown": 1.5,
+                "Poison": 30,
+                "PoisonLength": 1
             },
             {
-                "Price": 60000,
+                "Price": 80000,
                 "Range": 19,
-                "Damage": 8450,
-                "Cooldown": 1.26
+                "Damage": 22540,
+                "Cooldown": 1.26,
+                "Poison": 20,
+                "PoisonLength": 3
             }
         ]
     },
@@ -6679,6 +6695,202 @@
                 "Range": 25,
                 "Damage": 11250,
                 "Cooldown": 1.5
+            }
+        ]
+    },
+    "Shadow Stalker Endo": {
+        "Type": "Cone AOE",
+        "Image": "rbxassetid://104089648378415",
+        "Rarity": "Epic",
+        "PlacePrice": 4500,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 200,
+                "Cooldown": 1
+            },
+            {
+                "Price": 5555,
+                "Range": 18,
+                "Damage": 350,
+                "Cooldown": 1
+            },
+            {
+                "Price": 7460,
+                "Range": 20,
+                "Damage": 500,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 10000,
+                "Range": 20,
+                "Damage": 750,
+                "Cooldown": 0.75
+            }
+        ]
+    },
+    "Shadow Survivor Bonnie": {
+        "Type": "Melee",
+        "Image": "rbxassetid://98698183823503",
+        "Rarity": "Secret",
+        "PlacePrice": 350,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 16,
+                "Damage": 500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 2250,
+                "Range": 17,
+                "Damage": 650,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 3450,
+                "Range": 18,
+                "Damage": 750,
+                "Cooldown": 0.6
+            },
+            {
+                "Price": 6000,
+                "Range": 19,
+                "Damage": 900,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+     "Soul Snatcher Bonnie": {
+        "Type": "Splash",
+        "Image": "rbxassetid://129585241765087",
+        "Rarity": "Nightmare",
+        "PlacePrice": 25000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 6000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 40000,
+                "Range": 17,
+                "Damage": 8000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 65000,
+                "Range": 18,
+                "Damage": 13500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 80000,
+                "Range": 20,
+                "Damage": 15000,
+                "Cooldown": 0.7
+            }
+        ]
+    },
+     "Corrupted Soul Freddy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://87708831017171",
+        "Rarity": "Secret",
+        "PlacePrice": 20000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 200,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 25000,
+                "Range": 17,
+                "Damage": 250,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 32500,
+                "Range": 18,
+                "Damage": 300,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 50000,
+                "Range": 19,
+                "Damage": 4000,
+                "Cooldown": 0.1
+            }
+        ]
+    },
+     "Soulless Shadow": {
+        "Type": "Continuous Slow",
+        "Image": "rbxassetid://116577875434484",
+        "Rarity": "Mythic",
+        "PlacePrice": 2000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 15,
+                "Cooldown": 0.05,
+                "Slow": 0.8
+            },
+            {
+                "Price": 2400,
+                "Range": 17,
+                "Damage": 20,
+                "Cooldown": 0.05,
+                "Slow": 0.7
+            },
+            {
+                "Price": 3000,
+                "Range": 20,
+                "Damage": 25,
+                "Cooldown": 0.05,
+                "Slow": 0.6
+            },
+            {
+                "Price": 4000,
+                "Range": 25,
+                "Damage": 30,
+                "Cooldown": 0.05,
+                "Slow": 0.5
             }
         ]
     },
