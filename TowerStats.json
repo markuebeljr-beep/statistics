@@ -6915,7 +6915,7 @@
                 "SummonTime": 30,
                 "Health": 2500,
                 "WalkSpeed": 7,
-                "Unit": "Shadow Creeper",
+                "Unit": "Shadow Creeper"
             },
             {
                 "Price": 67000,
@@ -6926,7 +6926,7 @@
                 "SummonTime": 28,
                 "Health": 5000,
                 "WalkSpeed": 9,
-                "Unit": "Shadow Creeper",
+                "Unit": "Shadow Creeper"
             },
             {
                 "Price": 80000,
@@ -6937,7 +6937,7 @@
                 "SummonTime": 25,
                 "Health": 7500,
                 "WalkSpeed": 10,
-                "Unit": "Shadow Creeper",
+                "Unit": "Shadow Creeper"
             },
             {
                 "Price": 100000,
@@ -6948,7 +6948,7 @@
                 "SummonTime": 25,
                 "Health": 10000,
                 "WalkSpeed": 11,
-                "Unit": "Shadow Creeper",
+                "Unit": "Shadow Creeper"
             }
         ]
     },
