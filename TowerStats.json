@@ -6894,6 +6894,64 @@
             }
         ]
     },
+    "Queen Of Shadows": {
+        "Type": "AOE Booster + Summon",
+        "Image": "rbxassetid://131351303880889",
+        "Rarity": "Apex",
+        "PlacePrice": 34500,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 15000,
+                "Cooldown": 1,
+                "CooldownBoost": 0.85,
+                "SummonTime": 30,
+                "Health": 2500,
+                "WalkSpeed": 7,
+                "Unit": "Shadow Creeper",
+            },
+            {
+                "Price": 67000,
+                "Range": 17,
+                "Damage": 18500,
+                "Cooldown": 1,
+                "CooldownBoost": 0.8,
+                "SummonTime": 28,
+                "Health": 5000,
+                "WalkSpeed": 9,
+                "Unit": "Shadow Creeper",
+            },
+            {
+                "Price": 80000,
+                "Range": 18,
+                "Damage": 22500,
+                "Cooldown": 1,
+                "CooldownBoost": 0.76,
+                "SummonTime": 25,
+                "Health": 7500,
+                "WalkSpeed": 10,
+                "Unit": "Shadow Creeper",
+            },
+            {
+                "Price": 100000,
+                "Range": 19,
+                "Damage": 25000,
+                "Cooldown": 1,
+                "CooldownBoost": 0.73,
+                "SummonTime": 25,
+                "Health": 10000,
+                "WalkSpeed": 11,
+                "Unit": "Shadow Creeper",
+            }
+        ]
+    },
      "Rad Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18258392627",
