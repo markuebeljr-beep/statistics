@@ -2867,6 +2867,58 @@
             }
         ]
     },
+	 "Purple Guy": {
+        "Type": "Turret Spawner",
+        "Image": "rbxassetid://74846136473322",
+        "Rarity": "Secret",
+        "PlacePrice": 600,
+        "Offset": 0,
+        "Max": 3,
+        "Passive": {"Name": "Animatronic Engineer", "Description": "Spawns turrets that have 75 -> 200 DPS each"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 600,
+                "Cooldown": 1
+            },
+            {
+                "Price": 800,
+                "Range": 22,
+                "Damage": 700,
+                "Cooldown": 1,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 1000,
+                "Range": 25,
+                "Damage": 800,
+                "Cooldown": 1,
+                "Turret1": {"Range": 30, "Damage": 10, "Cooldown": 0.1}
+            },
+            {
+                "Price": 1200,
+                "Range": 27,
+                "Damage": 900,
+                "Cooldown": 1,
+                "Turret1": {"Range": 30, "Damage": 15, "Cooldown": 0.1},
+                "Turret2": {"Range": 30, "Damage": 15, "Cooldown": 0.1}
+            },
+            {
+                "Price": 1400,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Turret1": {"Range": 30, "Damage": 20, "Cooldown": 0.1},
+                "Turret2": {"Range": 30, "Damage": 20, "Cooldown": 0.1}
+            }
+        ]
+    },
     "Ennard": {
         "Type": "Chain Shock",
         "Image": "rbxassetid://82456156246566",
