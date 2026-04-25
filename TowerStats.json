@@ -1301,7 +1301,7 @@
             {
                 "Price": 40000,
                 "Range": 38,
-                "Damage": 1700,
+                "Damage": 1600,
                 "Cooldown": 0.25,
                 "Poison": 1031,
                 "PoisonLength": 1,
