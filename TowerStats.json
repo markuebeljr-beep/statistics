@@ -6030,19 +6030,19 @@
                 "Cooldown": 1
             },
             {
-                "Price": 60000,
+                "Price": 20000,
                 "Range": 35,
-                "Damage": 1900,
+                "Damage": 2000,
                 "Cooldown": 1
             },
             {
-                "Price": 72000,
+                "Price": 30000,
                 "Range": 40,
-                "Damage": 2500,
+                "Damage": 2600,
                 "Cooldown": 1
             },
             {
-                "Price": 84000,
+                "Price": 45000,
                 "Range": 45,
                 "Damage": 3000,
                 "Cooldown": 1
