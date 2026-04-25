@@ -3462,7 +3462,7 @@
         "Type": "Charge AOE Burn",
         "Image": "rbxassetid://78092879730354",
         "Rarity": "Secret",
-        "PlacePrice": 25000,
+        "PlacePrice": 10000,
         "Offset": 0,
         "Max": 1,
         "Passive": {"Name": "Burn", "Description": "Burns enemies at 300% over 1 second. Applies 30% Wither to enemies in range while Charging up."},
@@ -3475,44 +3475,44 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 1200,
-                "Burn": 3600,
+                "Damage": 100,
+                "Burn": 1000,
                 "BurnTime": 1,
                 "Cooldown": 0.25,
                 "ChargeTime": 3
             },
             {
-                "Price": 27500,
+                "Price": 20000,
                 "Range": 24,
-                "Damage": 1500,
-                "Burn": 4500,
+                "Damage": 250,
+                "Burn": 2000,
+                "BurnTime": 1,
+                "Cooldown": 0.25,
+                "ChargeTime": 3
+            },
+            {
+                "Price": 25000,
+                "Range": 28,
+                "Damage": 350,
+                "Burn": 2250,
                 "BurnTime": 1,
                 "Cooldown": 0.25,
                 "ChargeTime": 3
             },
             {
                 "Price": 30000,
-                "Range": 28,
-                "Damage": 1700,
-                "Burn": 5100,
-                "BurnTime": 1,
-                "Cooldown": 0.25,
-                "ChargeTime": 3
-            },
-            {
-                "Price": 40000,
                 "Range": 32,
-                "Damage": 1900,
-                "Burn": 5700,
+                "Damage": 500,
+                "Burn": 375,
                 "BurnTime": 1,
                 "Cooldown": 0.25,
                 "ChargeTime": 3
             } ,
              {
-                "Price": 50000,
+                "Price": 45000,
                 "Range": 34,
-                "Damage": 2250,
-                "Burn": 6750,
+                "Damage": 800,
+                "Burn": 500,
                 "BurnTime": 1,
                 "Cooldown": 0.25,
                 "ChargeTime": 3
