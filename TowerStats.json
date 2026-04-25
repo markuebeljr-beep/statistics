@@ -2971,7 +2971,7 @@
 "Circus Baby": {
         "Type": "Slash Stun",
         "Image": "rbxassetid://109411645448750",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 22500,
         "Offset": 0,
         "Max": 2,
@@ -3182,7 +3182,7 @@
 "Lolbit": {
         "Type": "Pierce Spread Stun",
         "Image": "rbxassetid://123600440160662",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 4000,
         "Offset": 0,
         "Max": 2,
@@ -3286,7 +3286,7 @@
 "Music Man": {
         "Type": "Cooldown Booster",
         "Image": "rbxassetid://77906930997624",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 1000,
         "Offset": 0,
         "Max": 3,
