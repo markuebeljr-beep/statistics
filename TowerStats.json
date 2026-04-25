@@ -1257,7 +1257,7 @@
 	"Reactor Freddy": {
         "Type": "Continuous Splash",
         "Image": "rbxassetid://77248304349602",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 20000,
         "Offset": 0,
         "Max": 2,
