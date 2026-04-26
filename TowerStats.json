@@ -3410,13 +3410,14 @@
             }
         ]
     },
-	"Phone Guy": {
-        "Type": "Aoe Dmg + Slow",
-        "Image": "rbxassetid://75720210105816",
-        "Rarity": "Nightmare",
+"Phone Guy": {
+        "Type": "AOE DMG + Slow",
+        "Image": "rbxassetid://138275060327175",
+        "Rarity": "Secret",
         "PlacePrice": 750,
-        "Offset": 0.5,
+        "Offset": 0,
         "Max": 3,
+        "Passive": {"Name": "Radio Waves", "Description": "Slows all enemies in range by 30% and applies 15% anti regen for 1 second"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -3426,34 +3427,38 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 50,
-                "Cooldown": 0.2,
-                "Slow": 50,
-                "SlowTime": 1
+                "Damage": 120,
+                "Cooldown": 0.25,
+                "Slow": 0.7,
+                "Bleed": 0.85,
+                "BleedTime": 1
+            },
+            {
+                "Price": 800,
+                "Range": 22,
+                "Damage": 135,
+                "Cooldown": 0.25,
+                "Slow": 0.7,
+                "Bleed": 0.85,
+                "BleedTime": 1
             },
             {
                 "Price": 1000,
-                "Range": 22,
-                "Damage": 60,
-                "Cooldown": 0.2,
-                "Slow": 50,
-                "SlowTime": 1
+                "Range": 24,
+                "Damage": 150,
+                "Cooldown": 0.25,
+                "Slow": 0.7,
+                "Bleed": 0.85,
+                "BleedTime": 1
             },
             {
-                "Price": 1350,
-                "Range": 23,
-                "Damage": 70,
-                "Cooldown": 0.2,
-                "Slow": 50,
-                "SlowTime": 1
-            },
-            {
-                "Price": 2000,
+                "Price": 1250,
                 "Range": 25,
-                "Damage": 80,
-                "Cooldown": 0.2,
-                "Slow": 50,
-                "SlowTime": 1
+                "Damage": 175,
+                "Cooldown": 0.25,
+                "Slow": 0.7,
+                "Bleed": 0.85,
+                "BleedTime": 1
             }
         ]
     },
