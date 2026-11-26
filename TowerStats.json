@@ -1006,6 +1006,44 @@
             }
         ]
     },
+    "Cakebear": {
+        "Type": "Melee",
+        "Image": "rbxassetid://99410715148329",
+        "Rarity": "Secret",
+        "PlacePrice": 750,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 9,
+                "Damage": 155,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1565,
+                "Range": 11,
+                "Damage": 215,
+                "Cooldown": 1.8
+            },
+            {
+                "Price": 1900,
+                "Range": 13,
+                "Damage": 265,
+                "Cooldown": 1.65
+            },
+            {
+                "Price": 2545,
+                "Range": 14,
+                "Damage": 300,
+                "Cooldown": 1.35
+            }
+        ]
+    },
     "Baker Toy Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://18161347460",
